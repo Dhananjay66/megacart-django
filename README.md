@@ -1,6 +1,6 @@
-## 🛒 GreatCart — Django eCommerce Platform
+## 🛒 MegaCart — Django eCommerce Platform
 
-**GreatCart** is a Django-based eCommerce web application that supports:
+**MegaCart** is a Django-based eCommerce web application that supports:
 
 * User authentication and roles (Admin, Seller, Customer)
 * Product management by sellers
@@ -26,7 +26,7 @@
 ## 📁 Folder Structure
 
 ```
-greatcart/
+MegaCart/
 ├── accounts/         # User management
 ├── carts/            # Shopping cart
 ├── category/         # Product categories
@@ -52,8 +52,8 @@ greatcart/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/greatcart.git
-cd greatcart
+git clone https://github.com/your-username/MegaCart.git
+cd MegaCart
 ```
 
 ### 2. Create a Virtual Environment
